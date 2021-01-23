@@ -1,0 +1,5 @@
+app:
+  datasource:
+    jdbc-url: jdbc:postgresql://ziggy.db.elephantsql.com:5432/fdqxtrpe
+    username: ${USERNAME}
+    password: ${PASSWORD}

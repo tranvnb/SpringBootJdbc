@@ -1,0 +1,8 @@
+app:
+  datasource:
+    jdbc-url: jdbc:postgresql://localhost:5432/courseman_jdbc_db
+    username: ${USERNAME}
+    password: ${PASSWORD}
+#spring:
+#  flyway:
+#    enabled: false
